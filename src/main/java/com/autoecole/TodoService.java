@@ -13,6 +13,8 @@ public class TodoService {
     List<?> getTodos() {
         return Arrays.asList(
                 new Todo(0L , "Todo 001", "Description Of Todo 001"),
+            new Todo(0L , "Todo 001", "Description Of Todo 001"),
+             new Todo(0L , "Todo 001", "Description Of Todo koko"),
                 new Todo(0L , "Todo 002", "Description Of Todo 002"),
                 new Todo(0L , "Todo 003", "Description Of Todo 003"),
                 new Todo(0L , "Todo 004", "Description Of Todo 004"),
