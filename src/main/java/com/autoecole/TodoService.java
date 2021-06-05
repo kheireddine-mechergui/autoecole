@@ -24,7 +24,8 @@ public class TodoService {
                 new Todo(0L , "Todo 005", "Description Of Todo 05"),
             new Todo(0L , "Todo 0055", "Description Of Todo 0054"),
             new Todo(0L , "Todo 0055", "Description Of Todo 0054"),
-                new Todo(0L , "Todo 077", "Description Of Todo 077")
+                new Todo(0L , "Todo 077", "Description Of Todo 077"),
+             new Todo(0L , "Todo 001", "Description Of Todo 001")
         );
     }
 }
